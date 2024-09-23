@@ -1,0 +1,72 @@
+{"persoane":[
+	{"persoana":{
+		"id":1,
+		"nume":"Eugen",
+		"oras_resedinta":"Caransebes",
+		"adresa":{
+			"strada":"Dreapta",
+			"numar_casa":1,
+			"numar_apartament":1
+				},
+		"contacte":{
+			"numere_telefon":"071",
+			"email":"1@yahoo.com",
+			"skype":"qwesad"
+					}
+				}
+		
+	},
+	{"persoana":{
+		"id":2,
+		"nume":"Adrian",
+		"oras_resedinta":"Carani",
+		"adresa":{
+			"strada":"Stanga",
+			"numar_casa":2,
+			"numar_apartament":2
+				},
+		"contacte":{
+			"numere_telefon":"072",
+			"email":"2@yahoo.com",
+			"skype":"qwsad"
+					}
+				}
+		
+	},
+	{"persoana":{
+		"id":3,
+		"nume":"Florin",
+		"oras_resedinta":"Timisoara",
+		"adresa":{
+			"strada":"Oblica",
+			"numar_casa":3,
+			"numar_apartament":3
+				},
+		"contacte":{
+			"numere_telefon":"073",
+			"email":"3@yahoo.com",
+			"skype":"qwertyu"
+					}
+				}
+		
+	},
+	{"persoana":{
+		"id":4,
+		"nume":"Denis",
+		"oras_resedinta":"Jupa",
+		"adresa":{
+			"strada":"Mica",
+			"numar_casa":4,
+			"numar_apartament":4
+				},
+		"contacte":{
+			"numere_telefon":"074",
+			"email":"4@yahoo.com",
+			"skype":"qwedsa"
+					}
+				}
+		
+	}
+			]
+	
+}

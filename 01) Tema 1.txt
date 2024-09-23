@@ -1,0 +1,20 @@
+
+1. Paginile informative “disclaimer” și “politică de confidențialitate” în aplicația mobilă duc la blocarea neașteptată (crash) a aplicației.
+Severity: Blocker;
+Priority: High.
+
+2. Mesajul de înregistrare afișat este incomplet, menționând “V-ați înregistrat cu succ”, în loc de fraza corectă, “V-ați înregistrat cu succes”.
+Severity: Minor/Trivial;
+Priority: Low.
+
+3. O greșeală de ortografie în numele aplicației web de pe pagina principală, de exemplu, când accesezi URL-ul https://www.google.com/, vezi cuvântul “Gogle”, în loc de “Google”.
+Severity: Major;
+Priority: Medium.
+
+4. Logo-ul companiei din antetul site-ului nu se potrivește cu design-ul.
+Severity: Major;
+Priority: Medium.
+
+5. Eroare de server atunci când încerci să transferi fonduri pe un card de la altă bancă.
+Severity: Critical;
+Priority: High.
